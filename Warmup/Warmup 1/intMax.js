@@ -8,6 +8,5 @@ function intMax(a, b, c){
   } else return c;
 }
 
-
 // Using the Math.max method:
 // intMax = (a, b, c) => Math.max(a, b, c);
